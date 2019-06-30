@@ -20,6 +20,7 @@ public class Alix {
         System.out.println("version tres");
         
         System.out.println("version editada en github");
+        System.out.println("practicando");
     }
     
 }
